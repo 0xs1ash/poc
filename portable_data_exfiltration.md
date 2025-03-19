@@ -1,5 +1,4 @@
-# In all sections intended for file uploads, it is possible to execute script code within a .pdf file extension.And this helps us execute the XSS vulnerability by uploading a malicious PDF file.
-
+# In all sections intended for file uploads, it is possible to execute script code within a .pdf file extension.
 
 <img width="647" alt="19-03-2025-04-34-37" src="https://github.com/user-attachments/assets/8e83e51c-e55f-4271-bb57-ac69201e1ac8" />
 
